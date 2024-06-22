@@ -4,6 +4,9 @@
   - C++
   - OpenGl
   - CUDA
+  - Linux
+  - Docker
+  - UE5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   - QQ:2813446928
